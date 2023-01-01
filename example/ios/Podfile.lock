@@ -1,0 +1,22 @@
+PODS:
+  - dynamic_icon (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - dynamic_icon (from `.symlinks/plugins/dynamic_icon/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  dynamic_icon:
+    :path: ".symlinks/plugins/dynamic_icon/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dynamic_icon: dbb954fe97ca10916f5fe04e139a71d8648585b5
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
