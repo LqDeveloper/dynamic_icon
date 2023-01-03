@@ -39,8 +39,7 @@ flutter:
         pluginClass: DynamicIconPlugin
       ios:
         pluginClass: DynamicIconPlugin
-      linux:
-        pluginClass: DynamicIconPlugin
+
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
