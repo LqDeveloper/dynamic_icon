@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
+import 'package:lq_dynamic_icon/dynamic_icon.dart';
 
-import 'package:flutter/services.dart';
-import 'package:dynamic_icon/dynamic_icon.dart';
 
 void main() {
   runApp(const MyApp());
