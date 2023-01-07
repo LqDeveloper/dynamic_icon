@@ -1,5 +1,6 @@
 name: lq_dynamic_icon
-description: Dynamically modify iOS and Android app icons.
+description: Dynamically modify iOS and Android app icons.The library support iOS and Android. 
+             You must config info.plist(iOS) and AndroidManifest.xml(Android) before using it.
 version: 0.0.2
 homepage: https://github.com/LqDeveloper/dynamic_icon.git
 
