@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lq_dynamic_icon/dynamic_icon.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -26,7 +25,8 @@ class MyHome extends StatefulWidget {
 }
 
 class _MyHomeState extends State<MyHome> {
-  final _dynamicIconPlugin = DynamicIcon(iconList: ['default', 'icon2', 'icon3']);
+  final _dynamicIconPlugin =
+      DynamicIcon(iconList: ['default', 'icon2', 'icon3']);
 
   @override
   Widget build(BuildContext context) {

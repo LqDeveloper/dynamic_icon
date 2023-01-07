@@ -1,3 +1,7 @@
 ## 0.0.1
 
-Demonstrates how to use the dynamic_icon plugin.
+Dynamically modify iOS and Android app icons.
+
+## 0.0.2
+
+Dynamically modify iOS and Android app icons.

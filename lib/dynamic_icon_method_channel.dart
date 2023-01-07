@@ -10,7 +10,6 @@ class MethodChannelDynamicIcon extends DynamicIconPlatform {
   @visibleForTesting
   final methodChannel = const MethodChannel('dynamic_icon');
 
-
   @override
   Future<bool?> setupAppIcon(String iconName) async {
     if (!iconList.contains(iconName)) return false;
